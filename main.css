@@ -1,0 +1,44 @@
+body{
+    background-color: #f8f8f8;
+
+}
+main{
+    display: inline-block
+
+}
+    header{
+        display: inline-block
+        img{
+            display: inline-block
+
+        }
+        nav{
+            display: inline-block
+
+        }
+        a{
+            display: inline-block
+
+        }
+
+    }
+    section{
+        display: inline-block
+        div{
+            display: inline-block
+            h1{
+                display: inline-block
+
+            }
+            p{
+                display: inline-block
+
+            }
+
+        }
+        img{
+            display: inline-block
+
+        }
+
+    }
